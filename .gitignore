@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+.vs/
+/node_modules/
+/coverage/
+/dist
+/build/
+.env
+tmp/uploads/*
+!tmp/uploads/.gitkeep
+private-key.pem
+public-key.pem
+.DS_Store
